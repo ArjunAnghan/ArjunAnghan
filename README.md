@@ -10,11 +10,11 @@
 -->
 Here are some ideas to get you started:
 <br> 
-- 🌱 I’m passionate about <b>DevOps</b><br>
+- 🌱 I’m passionate about <b>Software Development</b><br>
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: arjunanghan2020@gmail.com<br>
+- 📫 How to reach me: arjunanghan@gmail.com<br>
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ...  -->
   
